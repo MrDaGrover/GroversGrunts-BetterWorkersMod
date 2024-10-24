@@ -3,7 +3,7 @@
     "uniques": [
  
         //Grover's uniques
-        "[{Military}] gains [10] XP <in [Your] cities> <in cities with a [Barracks]> <upon turn end>"
+       // "[{Military}] gains [10] XP <in [Your] cities> <in cities with a [Barracks]> <upon turn end>"
 
     ]
 }
