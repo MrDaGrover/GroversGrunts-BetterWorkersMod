@@ -50,7 +50,7 @@
 		"obsoleteTech": "Scientific Theory",
 		"uniques": ["May upgrade to [Archer] through ruins-like effects",
 			"Never appears as a Barbarian unit",
-			"[[This Unit] gains [50] XP] <upon ending a turn in a [your] tile>"],
+			"[[This Unit] gains [50] XP] <in [in your cities] cities> <for all movement>"],
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
 	},
