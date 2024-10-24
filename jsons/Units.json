@@ -41,4 +41,16 @@
 			"[-2] population [in this city] <upon gianing a [Migrant Caravan] unit>"],
 		"hurryCostModifier": 20
 	},
+	{
+		"name": "Grover Scout",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 5,
+		"cost": 25,
+		"obsoleteTech": "Scientific Theory",
+		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost",
+			"[[This Unit] gains [5] XP] <for all movement> <if it hasn't used other actions yet> <in [Friendly Land] tiles>"],
+		"attackSound": "nonmetalhit"
+	},
 ]
