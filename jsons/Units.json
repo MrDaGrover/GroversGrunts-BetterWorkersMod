@@ -50,7 +50,7 @@
 		"obsoleteTech": "Scientific Theory",
 		"uniques": ["May upgrade to [Archer] through ruins-like effects",
 			"Never appears as a Barbarian unit",
-			"[[This Unit] gains [50] XP] <upon ending a turn in a [Friendly Land] tile>"],
+			"[[Grover Scout] gains [50] XP] <upon ending a turn in a [Friendly Land] tile>"],
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
 	},
