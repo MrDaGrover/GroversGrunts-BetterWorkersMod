@@ -14,16 +14,14 @@
 		"name": "Land Worker",
 		"unitType": "Civilian",
 		"movement": 2,
-		"upgradesTo": "Traveling Worker",
 		"cost": 48,
-		"uniques": ["Can build [Land] improvements on tiles","Cannot enter ocean tiles"]
+		"uniques": ["Can build [Land] improvements on tiles","Cannot enter ocean tiles","Can transform to [Traveling Worker]"]
 	},
 	{
 		"name": "Traveling Worker",
 		"unitType": "Civilian",
 		"movement": 2,
-		"upgradesTo": "Land Worker",
 		"cost": 48,
-		"uniques": ["Can build [Land] improvements on tiles"]
+		"uniques": ["Can build [Land] improvements on tiles","Can transform to [Land Worker]"]
 	}
 ]
