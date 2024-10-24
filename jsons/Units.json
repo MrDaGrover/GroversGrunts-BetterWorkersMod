@@ -7,28 +7,30 @@
 		"name": "Worker",
 		"unitType": "Civilian",
 		"movement": 2,
-		"cost": 48,
+		"cost": 70,
 		"uniques": ["Can build [Land] improvements on tiles"]
 	},
 	{
 		"name": "Land Worker",
 		"unitType": "Civilian",
 		"movement": 2,
-		"cost": 48,
+		"cost": 70,
 		"uniques": ["Can build [Land] improvements on tiles",
 			"Cannot enter ocean tiles",
-			"Can transform to [Traveling Worker]"]
+			"Can transform to [Traveling Worker]",
+			"Automation is a primary action"]
 	},
 	{
 		"name": "Traveling Worker",
 		"unitType": "Civilian",
 		"movement": 2,
-		"cost": 48,
+		"cost": 70,
 		"uniques": ["Can build [Land] improvements on tiles",
-			"Can transform to [Land Worker]"]
+			"Can transform to [Land Worker]",
+			"Automation is a primary action"]
 	},
 	{
-		"name": "Immigration Caravan",
+		"name": "Migrant Caravan",
 		"unitType": "Civilian",
 		"movement": 2,
 		"cost": 212,
@@ -36,7 +38,7 @@
 		"uniques": ["Excess Food converted to Production when under construction", 
 			"[2] population [in this city] <by consuming this unit>",
 			"Requires at least [10] population",
-			"[-2] population [in this city] <upon gianing a [Immigration Caravan] unit>"],
+			"[-2] population [in this city] <upon gianing a [Migrant Caravan] unit>"],
 		"hurryCostModifier": 20
 	},
 ]
