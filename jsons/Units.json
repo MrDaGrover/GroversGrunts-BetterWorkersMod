@@ -16,7 +16,7 @@
 		"movement": 2,
 		"upgradesTo": "Traveling Worker",
 		"cost": 48,
-		"uniques": ["Can build [Land] improvements on tiles","Cannot enter ocean tiles","[10] Movement point cost to embark","[This Unit] upgrades for free"]
+		"uniques": ["Can build [Land] improvements on tiles","Cannot enter ocean tiles","[10] Movement point cost to embark"]
 	},
 	{
 		"name": "Traveling Worker",
@@ -24,6 +24,6 @@
 		"movement": 2,
 		"upgradesTo": "Land Worker",
 		"cost": 48,
-		"uniques": ["Can build [Land] improvements on tiles","[This Unit] upgrades for free"]
+		"uniques": ["Can build [Land] improvements on tiles"]
 	}
 ]
