@@ -1,6 +1,6 @@
 [
 
-// Grover's workers.  Concept is to create workers that get clogged traversing ocean less.
+// Grover's super civilians.  Concept is to create some interesting civilians including workers that don't get clogged mass moving across water.
 
 
 	{
@@ -15,13 +15,28 @@
 		"unitType": "Civilian",
 		"movement": 2,
 		"cost": 48,
-		"uniques": ["Can build [Land] improvements on tiles","Cannot enter ocean tiles","Can transform to [Traveling Worker]"]
+		"uniques": ["Can build [Land] improvements on tiles",
+			"Cannot enter ocean tiles",
+			"Can transform to [Traveling Worker]"]
 	},
 	{
 		"name": "Traveling Worker",
 		"unitType": "Civilian",
 		"movement": 2,
 		"cost": 48,
-		"uniques": ["Can build [Land] improvements on tiles","Can transform to [Land Worker]"]
-	}
+		"uniques": ["Can build [Land] improvements on tiles",
+			"Can transform to [Land Worker]"]
+	},
+	{
+		"name": "Immigration Caravan",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 212,
+		// Settler Cost is 106
+		"uniques": ["Excess Food converted to Production when under construction", 
+			"[2] population [in this city] <by consuming this unit>",
+			"Requires at least [10] population",
+			"[-2] population [in this city] <upon gianing a [Immigration Caravan] unit>"],
+		"hurryCostModifier": 20
+	},
 ]
