@@ -50,7 +50,7 @@
 		"obsoleteTech": "Scientific Theory",
 		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
 		"promotions": ["Ignore terrain cost",
-			"[[This Unit] gains [5] XP] <for all movement> <in [Friendly Land] tiles>"],
+			"[[This Unit] gains [5] XP] <for all movement> <in [Friendly Land] tiles> <upon turn end>"],
 		"attackSound": "nonmetalhit"
 	},
 ]
