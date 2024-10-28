@@ -38,7 +38,6 @@
 		"uniques": ["Excess Food converted to Production when under construction", 
 			"[2] population [in this city] <by consuming this unit>",
 			"Requires at least [10] population",
-			"[-5] population [in this city] <upon gianing a [Migrant Caravan] unit>"],
 		"hurryCostModifier": 20
 	},
 	{
