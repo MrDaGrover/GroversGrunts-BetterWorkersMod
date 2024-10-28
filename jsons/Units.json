@@ -52,5 +52,5 @@
 			"[Grover Scout] gains [50] XP <[5] times>"],
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
-	},
+	}
 ]
