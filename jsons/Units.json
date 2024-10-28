@@ -38,7 +38,7 @@
 		"uniques": ["Excess Food converted to Production when under construction", 
 			"[2] population [in this city] <by consuming this unit>",
 			"Requires at least [10] population",
-		"hurryCostModifier": 20
+		"hurryCostModifier": 20,
 	},
 	{
 		"name": "Grover Scout",
