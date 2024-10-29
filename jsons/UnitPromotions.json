@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Training Excercises",
+    "uniques": [
+        "[This Unit] gains [1] XP <for [3] turns>",
+        "Cannot move <for [3] turns>",
+        "[+20]% Strength <<for [3] turns>>"
+    ]
+	}
+]
