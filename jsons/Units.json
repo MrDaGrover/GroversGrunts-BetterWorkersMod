@@ -62,7 +62,7 @@
 		"obsoleteTech": "Scientific Theory",
 		"uniques": ["May upgrade to [Archer] through ruins-like effects",
 			"Never appears as a Barbarian unit",
-			"[Grover Scout 2] gains the [Training Excercises] promotion <for [3] turns>"],
+			"[Grover Scout 2] gains the [Training Excercises] status for [3] turn(s) <for all movement>"],
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
 	}
