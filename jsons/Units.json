@@ -52,5 +52,18 @@
 			"[Grover Scout] gains [50] XP <upon ending a turn in a [Friendly Land] tile>"],
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Grover Scout 2",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 5,
+		"cost": 25,
+		"obsoleteTech": "Scientific Theory",
+		"uniques": ["May upgrade to [Archer] through ruins-like effects",
+			"Never appears as a Barbarian unit",
+			"[Grover Scout 2] gains the [Training Excercises] promotion <for all movement>"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
 	}
 ]
