@@ -2,8 +2,10 @@
   {
     "name": "Training Excercises",
     "uniques": [
-        "[This Unit] gains [1] XP <every [1] turns>",
+        "[This Unit] gains [3] XP",
         "Cannot move",
+        "[-20] Movement",
+        "No Sight",
         "[-50]% Strength"]
   }
 ]
