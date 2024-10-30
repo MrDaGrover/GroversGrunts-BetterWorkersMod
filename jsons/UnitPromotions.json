@@ -2,7 +2,7 @@
   {
     "name": "Training Excercises",
     "uniques": [
-        "[This Unit] gains [3] XP",
+        "[This Unit] gains [3] XP <upon gaining the [Training Excercises] promotion>",
         "Cannot move",
         "[-20] Movement",
         "No Sight",
