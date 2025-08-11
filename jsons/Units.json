@@ -16,7 +16,8 @@
 		"movement": 2,
 		"cost": 70,
 		"uniques": ["Can build [Land] improvements on tiles",
-			"Cannot enter ocean tiles",
+			//"Cannot enter ocean tiles",
+			"Cannot embark",
 			"Can transform to [Traveling Worker]",
 			"Automation is a primary action"]
 	},
@@ -49,7 +50,7 @@
 		"obsoleteTech": "Scientific Theory",
 		"uniques": ["May upgrade to [Archer] through ruins-like effects",
 			"Never appears as a Barbarian unit",
-			"[Grover Scout] gains [50] XP <upon ending a turn in a [Friendly Land] tile>"],
+			"[Grover Scout] gains [50] XP <requires [2] movement>"],
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
 	},
